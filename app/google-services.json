@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35607010147",
+    "project_id": "sololearnauth",
+    "storage_bucket": "sololearnauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35607010147:android:e0088e8077f3095e991156",
+        "android_client_info": {
+          "package_name": "com.example.sololearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35607010147-9s87r6g7c262utp6ah6uhb6r07erruiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2DMXaCTlmbxY-_QezQQQ2SANTea8jug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35607010147-9s87r6g7c262utp6ah6uhb6r07erruiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
